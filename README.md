@@ -6,7 +6,7 @@ Amazon Intelligence Ultra, e-ticaret dünyasında kaybolmanızı engelleyen, ür
 ---
 
 ## 📸 Uygulama Görünümü
-![Dashboard Önizlemesi](screenshot.png)
+![Dashboard Önizlemesi](AmazonApp.png)
 
 ---
 
